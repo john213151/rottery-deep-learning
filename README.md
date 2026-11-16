@@ -2,9 +2,15 @@
 rottery deep learning with python and tensorflow.
 
 
-```text
-├── my_model.keras
-└── rotterydeeplearning.ipynb
+```
+.
+└── rottery-deep-learning
+    ├── README.md
+    └── user
+        ├── lotto_1_to_1246.csv
+        ├── my_model.keras
+        └── rotterydeeplearning.ipynb
+
 ```
 
 로또 예측,, 
